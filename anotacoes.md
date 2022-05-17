@@ -8,5 +8,9 @@ A execução de um programa assíncrono é quando o programa é executado de for
 
 A programação assíncrona *não é bloqueante*.
 
+**Herança**
 
+Reutilização de códigos de maneira mais simples, se comparada à composição.
+
+Na herança há uma classe mãe e uma classe filha, que herda todas as características da classe mãe.
 
